@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Plateforme</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">الاسم</string>
+    <string name="hint_sirname">النسب</string>
+    <string name="hint_city">المدينة</string>
+    <string name="hint_email">البريد الالكتروني</string>
+    <string name="hint_email_username">البريد الالكتروني او اسم المستخدم</string>
+    <string name="hint_username">اسم المستخدم</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="hint_birthday">تاريخ الازدياد</string>
+    <string name="btn_sign_up">تسجيل الحساب</string>
+    <string name="btn_sign_in">تسجيل الدخول</string>
+    <string name="err_msg_name">المرجو كتابة الاسم</string>
+    <string name="err_msg_sirname">المرجو كتابة النسب</string>
+    <string name="err_msg_city">المرجو كتابة اسم مدينتك</string>
+    <string name="err_msg_email">المرجو ادخال بريد الكتروني صحيح</string>
+    <string name="err_msg_email_username">ادخل البريد الالكتروني او اسم المستخدم</string>
+    <string name="err_msg_username">ادخل اسم المستخدم</string>
+    <string name="err_msg_password2">اعد كتابة كلمة المرور</string>
+    <string name="err_msg_password">ادخل كلمة المرور</string>
+    <string name="err_msg_birthday">ادخل تاريخ ميلادك</string>
+    <string name="welcoming_text">اذا كنت لا تتوفر على حسابك الخاص قم بالتسجيل الان باختيار استاذ او تلميذ</string>
+
+</resources>
